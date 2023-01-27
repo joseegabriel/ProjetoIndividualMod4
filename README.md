@@ -10,8 +10,8 @@ Sim! Instituicao, funcionarios, historico, salas e secretaria.
 
 ⇨ Quais são os principais campos e tipos?
 
-Instituicao, turma e aluno.
+Instituicao, turma e aluno e seus respectivos ID's
 
 ⇨ Como essas entidades estão relacionadas?
 
-A Instituicao tem turmas, e as turmas possuem alunos, salas e afins.
+A Instituicao tem turmas, e as turmas possuem alunos, salas e etc, e suas chaves primárias fazem ligação com outras entidades.
